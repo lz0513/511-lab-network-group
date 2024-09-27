@@ -24,4 +24,4 @@
 
 1. 克隆此仓库
    ```bash
-   git clone https://github.com/lz0513/GNN.git
+   git clone https://github.com/lz0513/511-lab-network-group.git
